@@ -150,33 +150,23 @@ AVERAGE(Sales[DaysToShip])
 
 ##Financial Page:
 
-```md
 ![Financial Page](images/Finance_Page.png)
-```
 
 ##Returns Page:
 
-```md
 ![Returns Page](images/Returns_Page.png)
-```
 
 ##Discounts Page:
 
-```md
 ![Discounts Page](images/Discounts_Page.png)
-```
 
 ##Shipping Page:
 
-```md
 ![Shipping Page](images/Shipping_Page.png)
-```
 
 ##Orders Page:
 
-```md
 ![Orders Page](images/Orders_Page.png)
-```
 
 ---
 
