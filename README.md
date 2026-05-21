@@ -148,23 +148,23 @@ AVERAGE(Sales[DaysToShip])
 
 > Dashboard screenshots here.
 
-##Financial Page:
+## Financial Page:
 
 ![Financial Page](images/Finance_Page.png)
 
-##Returns Page:
+## Returns Page:
 
 ![Returns Page](images/Returns_Page.png)
 
-##Discounts Page:
+## Discounts Page:
 
 ![Discounts Page](images/Discounts_Page.png)
 
-##Shipping Page:
+## Shipping Page:
 
 ![Shipping Page](images/Shipping_Page.png)
 
-##Orders Page:
+## Orders Page:
 
 ![Orders Page](images/Orders_Page.png)
 
