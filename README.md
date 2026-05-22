@@ -175,7 +175,7 @@ AVERAGE(Sales[DaysToShip])
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/retail-performance-dashboard.git
+git clone [https://github.com/minahnna2017-spec/Retail-Supply-Chain-Sales-Analysis.git]
 ```
 
 2. Open the Power BI file:
