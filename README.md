@@ -146,21 +146,27 @@ AVERAGE(Sales[DaysToShip])
 
 # 📸 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+> Dashboard screenshots here.
 
-Example:
+## Financial Page:
 
-```md
-![Dashboard Overview](images/dashboard-overview.png)
-```
+![Financial Page](images/Finance_Page.png)
 
-You can create a folder called:
+## Returns Page:
 
-```bash
-/images
-```
+![Returns Page](images/Returns_Page.png)
 
-And upload dashboard screenshots inside it.
+## Discounts Page:
+
+![Discounts Page](images/Discounts_Page.png)
+
+## Shipping Page:
+
+![Shipping Page](images/Shipping_Page.png)
+
+## Orders Page:
+
+![Orders Page](images/Orders_Page.png)
 
 ---
 
