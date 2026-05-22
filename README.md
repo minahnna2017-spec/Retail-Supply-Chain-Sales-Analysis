@@ -1,4 +1,4 @@
-# Retail Performance Dashboard 📊
+# Retail Slaes Performance Dashboard 📊
 
 A complete end-to-end **Retail Sales Data Analysis Project** built using **Power BI** to analyze sales performance, profitability, customer behavior, shipping efficiency, and regional insights for a retail business.
 
